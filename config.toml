@@ -13,6 +13,9 @@ languageCode = "en-us"
 # Website title
 title = "STEM Notes"
 
+# build directory
+publishDir = "docs"
+
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
