@@ -15,7 +15,5 @@
   "author": "Patrick",
   "license": "UNLICENSED",
   "homepage": "https://patevs.github.io/STEM-Notes",
-  "dependencies": {
-    "firebase": "^5.7.2"
-  }
+  "dependencies": {}
 }
