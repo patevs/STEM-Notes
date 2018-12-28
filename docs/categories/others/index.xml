@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>others on STEM Notes</title>
+    <link>https://patevs.github.io/STEM-Notes/categories/others/</link>
+    <description>Recent content in others on STEM Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Sep 2017 08:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="https://patevs.github.io/STEM-Notes/categories/others/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Configuration File: config.toml</title>
+      <link>https://patevs.github.io/STEM-Notes/docs/config-file/</link>
+      <pubDate>Mon, 25 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>https://patevs.github.io/STEM-Notes/docs/config-file/</guid>
+      <description>This is the Engimo&amp;rsquo;s configuraion file ( config.toml ) file of this site:
+#------------------- # # config.toml # # # # Hugo configuration # # ------------------ # # Website URL baseURL = &amp;#34;https://patevs.github.io/STEM-Notes/&amp;#34; #&amp;#34;http://example.org/&amp;#34; # english languageCode = &amp;#34;en-us&amp;#34; # Website title title = &amp;#34;STEM Notes&amp;#34; # build directory publishDir = &amp;#34;docs&amp;#34; # for smart copyright line, leave this blank and check [params.copyright] copyright = &amp;#34;&amp;#34; # Theme name theme = &amp;#34;engimo&amp;#34; # Engimo theme config disqusShortname = &amp;#34;&amp;#34; googleAnalytics = &amp;#34;&amp;#34; Paginate = 5 preserveTaxonomyNames = true enableRobotsTXT = true # generate robots.</description>
+    </item>
+    
+  </channel>
+</rss>
