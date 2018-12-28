@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/patevs/STEM-Notes/issues"
   },
-  "homepage": "https://patevs.github.io/STEM-Notes"
+  "homepage": "https://patevs.github.io/STEM-Notes",
+  "dependencies": {
+    "firebase": "^5.7.2"
+  }
 }
