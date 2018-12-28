@@ -15,7 +15,7 @@ languageCode = "en-us"
 title = "STEM Notes"
 
 # build directory
-# publishDir = "public"
+publishDir = "docs"
 
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
