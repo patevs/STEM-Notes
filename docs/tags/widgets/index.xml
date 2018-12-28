@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>widgets on STEM Notes</title>
-    <link>/tags/widgets/</link>
+    <link>https://patevs.github.io/STEM-Notes/tags/widgets/</link>
     <description>Recent content in widgets on STEM Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Feb 2018 18:30:00 +0600</lastBuildDate>
     
-	<atom:link href="/tags/widgets/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://patevs.github.io/STEM-Notes/tags/widgets/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Widgets</title>
-      <link>/docs/widgets/</link>
+      <link>https://patevs.github.io/STEM-Notes/docs/widgets/</link>
       <pubDate>Wed, 07 Feb 2018 18:30:00 +0600</pubDate>
       
-      <guid>/docs/widgets/</guid>
+      <guid>https://patevs.github.io/STEM-Notes/docs/widgets/</guid>
       <description>Engimo supports Widgets that you can place on specific Widget Areas.
 Available Widgets Engimo has the following built-in Widgets:
    Name Slug     1. About about   2. Recent Posts recent_posts   3. Search search   4. Sidebar Menu sidebar_menu   5. Social Menu social_menu   6. Taxonomy Cloud taxonomy_cloud    Widget Configuration Options Here are the configuration options available for the Widgets:</description>

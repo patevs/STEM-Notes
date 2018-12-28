@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>engineering on STEM Notes</title>
-    <link>/tags/engineering/</link>
+    <link>https://patevs.github.io/STEM-Notes/tags/engineering/</link>
     <description>Recent content in engineering on STEM Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Jul 2018 09:00:00 +0600</lastBuildDate>
     
-	<atom:link href="/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://patevs.github.io/STEM-Notes/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Engineering Support</title>
-      <link>/engineering-support/</link>
+      <link>https://patevs.github.io/STEM-Notes/engineering-support/</link>
       <pubDate>Thu, 26 Jul 2018 09:00:00 +0600</pubDate>
       
-      <guid>/engineering-support/</guid>
+      <guid>https://patevs.github.io/STEM-Notes/engineering-support/</guid>
       <description>Math and formulas Engimo comes with out-of-box support for math and formulas based on MathJax.
 Diagrams and charts Engimo extends Minimo theme with support of:
  Graphviz diagrams Digital waveforms diagrams 2D Charts Message Sequence Charts Flowcharts  Deprecated pages Support for marking pages as deprecated.
@@ -25,10 +25,10 @@ Online vs offline Most of these features are available when working online, sinc
     
     <item>
       <title>Flowcharts support</title>
-      <link>/docs/flowcharts/</link>
+      <link>https://patevs.github.io/STEM-Notes/docs/flowcharts/</link>
       <pubDate>Sun, 29 Jul 2018 09:00:00 +0600</pubDate>
       
-      <guid>/docs/flowcharts/</guid>
+      <guid>https://patevs.github.io/STEM-Notes/docs/flowcharts/</guid>
       <description>In order to include flowchart.js diagram, add the following attribute to the page metadata section:
 --- flowchart: true ---  You may then start embedding flowcharts.
 Flowchart To embed an example flowchart, add code block section labeled with flowchart as a language:
@@ -37,10 +37,10 @@ Flowchart To embed an example flowchart, add code block section labeled with flo
     
     <item>
       <title>Message Sequence Charts</title>
-      <link>/docs/message-sequence-charts/</link>
+      <link>https://patevs.github.io/STEM-Notes/docs/message-sequence-charts/</link>
       <pubDate>Fri, 27 Jul 2018 10:00:00 +0600</pubDate>
       
-      <guid>/docs/message-sequence-charts/</guid>
+      <guid>https://patevs.github.io/STEM-Notes/docs/message-sequence-charts/</guid>
       <description>Engimo supports embedding simple message sequence charts, with help of js-sequence-diagrams.
 A simple sequence chart like this one:
 Andrew-&amp;gt;China: Says Hello Note right of China: China thinks\nabout it China--&amp;gt;Andrew: How are you? Andrew-&amp;gt;&amp;gt;China: I am good thanks! can be embedded with enabling these chart types on a page with
@@ -50,10 +50,10 @@ Andrew-&amp;gt;China: Says Hello Note right of China: China thinks\nabout it Chi
     
     <item>
       <title>2D Charts</title>
-      <link>/docs/charts/</link>
+      <link>https://patevs.github.io/STEM-Notes/docs/charts/</link>
       <pubDate>Fri, 27 Jul 2018 09:00:00 +0600</pubDate>
       
-      <guid>/docs/charts/</guid>
+      <guid>https://patevs.github.io/STEM-Notes/docs/charts/</guid>
       <description>Engimo adds support for chars rendered with help of Chart.js.
 This bar chart is an example of what the support looks like:
 { &amp;#34;type&amp;#34;: &amp;#34;bar&amp;#34;, &amp;#34;data&amp;#34;: { &amp;#34;labels&amp;#34;: [&amp;#34;One&amp;#34;, &amp;#34;Two&amp;#34;, &amp;#34;Three&amp;#34;, &amp;#34;Four&amp;#34;, &amp;#34;Five&amp;#34;, &amp;#34;Six&amp;#34;], &amp;#34;datasets&amp;#34;: [{ &amp;#34;label&amp;#34;: &amp;#34;# of Votes&amp;#34;, &amp;#34;data&amp;#34;: [12, 19, 3, 5, 3, 8] }] } } To get chart like this one above, follow the steps:
@@ -63,10 +63,10 @@ This bar chart is an example of what the support looks like:
     
     <item>
       <title>Deprecated Pages</title>
-      <link>/docs/deprecated/</link>
+      <link>https://patevs.github.io/STEM-Notes/docs/deprecated/</link>
       <pubDate>Fri, 27 Jul 2018 09:00:00 +0600</pubDate>
       
-      <guid>/docs/deprecated/</guid>
+      <guid>https://patevs.github.io/STEM-Notes/docs/deprecated/</guid>
       <description>Engimo adds a new boolean parameter to the metadata section: deprecated. When set to true like this:
 --- deprecated: true ---  then the page will have a red box indicating that:
 This page has been marked as deprecated &amp;nbsp;
@@ -75,10 +75,10 @@ In addition, when the title of the page is listed (e.g. with tags, categories li
     
     <item>
       <title>Digital Signals Waveforms</title>
-      <link>/docs/waveforms/</link>
+      <link>https://patevs.github.io/STEM-Notes/docs/waveforms/</link>
       <pubDate>Thu, 26 Jul 2018 09:00:00 +0600</pubDate>
       
-      <guid>/docs/waveforms/</guid>
+      <guid>https://patevs.github.io/STEM-Notes/docs/waveforms/</guid>
       <description>Engimo support embedding wavedrom diagrams. For that, insert the following line into page metadata section:
 --- wave: true ---  then, in the content you may inline the diagram using viz-dot as a language:
 ```wave { &amp;quot;signal&amp;quot;: [ {&amp;quot;name&amp;quot;:&amp;quot;CLK&amp;quot;, &amp;quot;wave&amp;quot;:&amp;quot;p.....|...&amp;quot;}, {&amp;quot;name&amp;quot;:&amp;quot;DAT&amp;quot;, &amp;quot;wave&amp;quot;:&amp;quot;x.345x|=.x&amp;quot;, &amp;quot;data&amp;quot;:[&amp;quot;A&amp;quot;,&amp;quot;B&amp;quot;,&amp;quot;C&amp;quot;,&amp;quot;D&amp;quot;]}, {&amp;quot;name&amp;quot;:&amp;quot;REQ&amp;quot;, &amp;quot;wave&amp;quot;:&amp;quot;0.1..0|1.0&amp;quot;}, {}, {&amp;quot;name&amp;quot;:&amp;quot;ACK&amp;quot;, &amp;quot;wave&amp;quot;: &amp;quot;1.....|01.&amp;quot;} ]} ```  Result { &amp;#34;signal&amp;#34;: [ {&amp;#34;name&amp;#34;: &amp;#34;CLK&amp;#34;, &amp;#34;wave&amp;#34;: &amp;#34;p.....|...&amp;#34;}, {&amp;#34;name&amp;#34;:&amp;#34;DAT&amp;#34;, &amp;#34;wave&amp;#34;:&amp;#34;x.345x|=.x&amp;#34;, &amp;#34;data&amp;#34;:[&amp;#34;A&amp;#34;,&amp;#34;B&amp;#34;,&amp;#34;C&amp;#34;,&amp;#34;D&amp;#34;]}, {&amp;#34;name&amp;#34;: &amp;#34;REQ&amp;#34;, &amp;#34;wave&amp;#34;: &amp;#34;0.1..0|1.0&amp;#34;}, {}, {&amp;#34;name&amp;#34;: &amp;#34;ACK&amp;#34;, &amp;#34;wave&amp;#34;: &amp;#34;1.</description>
@@ -86,10 +86,10 @@ In addition, when the title of the page is listed (e.g. with tags, categories li
     
     <item>
       <title>Graphviz Support</title>
-      <link>/docs/graphviz/</link>
+      <link>https://patevs.github.io/STEM-Notes/docs/graphviz/</link>
       <pubDate>Thu, 26 Jul 2018 09:00:00 +0600</pubDate>
       
-      <guid>/docs/graphviz/</guid>
+      <guid>https://patevs.github.io/STEM-Notes/docs/graphviz/</guid>
       <description>In order to include graphviz diagram, add the following attribute to the page metadata section:
 --- viz: true ---  You may then start adding diagrams.
 Directed graphs To embed directed graphs, add code block section labeled with viz-dot as a language:
@@ -98,10 +98,10 @@ Directed graphs To embed directed graphs, add code block section labeled with vi
     
     <item>
       <title>Features Summary</title>
-      <link>/features-summary/</link>
+      <link>https://patevs.github.io/STEM-Notes/features-summary/</link>
       <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/features-summary/</guid>
+      <guid>https://patevs.github.io/STEM-Notes/features-summary/</guid>
       <description>Math $ \frac{d}{dx}\left( \int_{0}^{x} f(u)\,du\right)=f(x) $
 $ A_n = \begin{pmatrix} a_1 &amp;amp; a_2 &amp;amp; \ldots &amp;amp; a_n \\
 b_1 &amp;amp; b_2 &amp;amp; \ldots &amp;amp; b_n \\ \end{pmatrix} $

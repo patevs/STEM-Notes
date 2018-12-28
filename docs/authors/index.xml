@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on STEM Notes</title>
-    <link>/authors/</link>
+    <link>https://patevs.github.io/STEM-Notes/authors/</link>
     <description>Recent content in Authors on STEM Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://patevs.github.io/STEM-Notes/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>achary</title>
-      <link>/authors/achary/</link>
+      <link>https://patevs.github.io/STEM-Notes/authors/achary/</link>
       <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
       
-      <guid>/authors/achary/</guid>
+      <guid>https://patevs.github.io/STEM-Notes/authors/achary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>muniftanjim</title>
-      <link>/authors/muniftanjim/</link>
+      <link>https://patevs.github.io/STEM-Notes/authors/muniftanjim/</link>
       <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
       
-      <guid>/authors/muniftanjim/</guid>
+      <guid>https://patevs.github.io/STEM-Notes/authors/muniftanjim/</guid>
       <description></description>
     </item>
     
