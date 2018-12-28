@@ -6,7 +6,22 @@
 
 Built using [Hugo](https://gohugo.io/) static site generator tool/framework.
 
-Theme forked from: [achary/engimo](https://github.com/achary/engimo)
+Theme: [achary/engimo](https://github.com/achary/engimo)
+
+## Setup Instructions
+
+```bash
+git clone https://github.com/patevs/STEM-Notes.git
+cd STEM-Notes
+
+# clone theme submodule
+git submodule update --init --recursive
+
+# run development server
+hugo server
+# build production site
+hugo
+```
 
 ## Resources
 
