@@ -5,7 +5,8 @@
 # ------------------ #
 
 # Website URL
-baseURL = "http://example.org/"
+baseURL = "https://patevs.github.io/STEM-Notes/"
+#"http://example.org/"
 
 # english
 languageCode = "en-us"
