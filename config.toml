@@ -19,7 +19,7 @@ copyright = ""
 # Theme name
 theme = "engimo"
 
-# theme config
+# Engimo theme config
 disqusShortname = ""
 googleAnalytics = ""
 
@@ -37,8 +37,8 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Minimalist Hugo theme for Engineers"
-title404 = "Nothing's here!"
+description = "Science, Technologly, Engineering, Mathmatics"
+title404 = "404 Page not found!"
 
 [params.assets]
 
@@ -49,8 +49,8 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "achary"
-startYear = "2017"
+holder = "Patrick Evans"
+startYear = "2018"
 suffix = ""
 
 [params.settings]
@@ -85,8 +85,8 @@ page = "" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-email = "contact@example.com"
-github = "achary"
+email = "ppevans11@gmail.com"
+github = "patevs"
 
 [params.comments]
 enable = false
