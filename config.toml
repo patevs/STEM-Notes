@@ -5,7 +5,8 @@
 # ------------------ #
 
 # Website URL
-baseURL = "https://patevs.github.io/STEM-Notes/"
+#baseURL = "http://localhost:1313/"
+#"https://patevs.github.io/STEM-Notes/"
 #"http://example.org/"
 
 # english
@@ -15,7 +16,7 @@ languageCode = "en-us"
 title = "STEM Notes"
 
 # build directory
-publishDir = "docs"
+#publishDir = "docs"
 
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
@@ -131,11 +132,11 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
-[[menu.main]]
-name = "Repo"
-weight = -10
-identifier = "repository"
-url = "https://github.com/achary/engimo"
+#[[menu.main]]
+#name = "Repo"
+#weight = -10
+#identifier = "repository"
+#url = "https://github.com/achary/engimo"
 
 [blackfriday]
 hrefTargetBlank = true
