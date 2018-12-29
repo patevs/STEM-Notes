@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>engineering on STEM Notes</title>
+    <link>https://stem-notes.netlify.com/tags/engineering/</link>
+    <description>Recent content in engineering on STEM Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jul 2018 09:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="https://stem-notes.netlify.com/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Engineering Support</title>
+      <link>https://stem-notes.netlify.com/engineering-support/</link>
+      <pubDate>Thu, 26 Jul 2018 09:00:00 +0600</pubDate>
+      
+      <guid>https://stem-notes.netlify.com/engineering-support/</guid>
+      <description>Math and formulas Engimo comes with out-of-box support for math and formulas based on MathJax.
+Diagrams and charts Engimo extends Minimo theme with support of:
+ Graphviz diagrams Digital waveforms diagrams 2D Charts Message Sequence Charts Flowcharts  Deprecated pages Support for marking pages as deprecated.
+Online vs offline Most of these features are available when working online, since some of the work performed relies on JavaScript resources available in the Internet.</description>
+    </item>
+    
+    <item>
+      <title>Hugo setup and Engimo theme Installation Guide</title>
+      <link>https://stem-notes.netlify.com/docs/installation/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stem-notes.netlify.com/docs/installation/</guid>
+      <description>First of all you will need to setup a Hugo site. You can follow the Hugo&amp;rsquo;s Quick Start Guide for that.
+After you&amp;rsquo;re done with that, it&amp;rsquo;s time for installing Engimo!
+Installing Engimo There are two different ways you can install Engimo:
+ As clone As submodule  The second method is recommended.
+Install Engimo as clone With this method, you will simply clone it. And a copy of Engimo&amp;rsquo;s repository will be stored with the rest of you site.</description>
+    </item>
+    
+    <item>
+      <title>Flowcharts support</title>
+      <link>https://stem-notes.netlify.com/docs/flowcharts/</link>
+      <pubDate>Sun, 29 Jul 2018 09:00:00 +0600</pubDate>
+      
+      <guid>https://stem-notes.netlify.com/docs/flowcharts/</guid>
+      <description>In order to include flowchart.js diagram, add the following attribute to the page metadata section:
+--- flowchart: true ---  You may then start embedding flowcharts.
+Flowchart To embed an example flowchart, add code block section labeled with flowchart as a language:
+```flowchart st=&amp;gt;start: Start:&amp;gt;http://www.google.com[blank] e=&amp;gt;end:&amp;gt;http://www.google.com op1=&amp;gt;operation: My Operation sub1=&amp;gt;subroutine: My Subroutine cond=&amp;gt;condition: Yes or No?:&amp;gt;http://www.google.com io=&amp;gt;inputoutput: catch something... para=&amp;gt;parallel: parallel tasks st-&amp;gt;op1-&amp;gt;cond cond(yes)-&amp;gt;io-&amp;gt;e cond(no)-&amp;gt;para para(path1, bottom)-&amp;gt;sub1(right)-&amp;gt;op1 para(path2, top)-&amp;gt;op1 ```  st=&amp;gt;start: Start:&amp;gt;http://www.</description>
+    </item>
+    
+    <item>
+      <title>Message Sequence Charts</title>
+      <link>https://stem-notes.netlify.com/docs/message-sequence-charts/</link>
+      <pubDate>Fri, 27 Jul 2018 10:00:00 +0600</pubDate>
+      
+      <guid>https://stem-notes.netlify.com/docs/message-sequence-charts/</guid>
+      <description>Engimo supports embedding simple message sequence charts, with help of js-sequence-diagrams.
+A simple sequence chart like this one:
+Andrew-&amp;gt;China: Says Hello Note right of China: China thinks\nabout it China--&amp;gt;Andrew: How are you? Andrew-&amp;gt;&amp;gt;China: I am good thanks! can be embedded with enabling these chart types on a page with
+--- msc: true ---  and then creating code block with msc type:
+```msc Andrew-&amp;gt;China: Says Hello Note right of China: China thinks\nabout it China--&amp;gt;Andrew: How are you?</description>
+    </item>
+    
+    <item>
+      <title>2D Charts</title>
+      <link>https://stem-notes.netlify.com/docs/charts/</link>
+      <pubDate>Fri, 27 Jul 2018 09:00:00 +0600</pubDate>
+      
+      <guid>https://stem-notes.netlify.com/docs/charts/</guid>
+      <description>Engimo adds support for chars rendered with help of Chart.js.
+This bar chart is an example of what the support looks like:
+{ &amp;#34;type&amp;#34;: &amp;#34;bar&amp;#34;, &amp;#34;data&amp;#34;: { &amp;#34;labels&amp;#34;: [&amp;#34;One&amp;#34;, &amp;#34;Two&amp;#34;, &amp;#34;Three&amp;#34;, &amp;#34;Four&amp;#34;, &amp;#34;Five&amp;#34;, &amp;#34;Six&amp;#34;], &amp;#34;datasets&amp;#34;: [{ &amp;#34;label&amp;#34;: &amp;#34;# of Votes&amp;#34;, &amp;#34;data&amp;#34;: [12, 19, 3, 5, 3, 8] }] } } To get chart like this one above, follow the steps:
+ Add this to the metadata section
+--- chart: true ---  Then add the chart to the page, e.</description>
+    </item>
+    
+    <item>
+      <title>Deprecated Pages</title>
+      <link>https://stem-notes.netlify.com/docs/deprecated/</link>
+      <pubDate>Fri, 27 Jul 2018 09:00:00 +0600</pubDate>
+      
+      <guid>https://stem-notes.netlify.com/docs/deprecated/</guid>
+      <description>Engimo adds a new boolean parameter to the metadata section: deprecated. When set to true like this:
+--- deprecated: true ---  then the page will have a red box indicating that:
+This page has been marked as deprecated &amp;nbsp;
+In addition, when the title of the page is listed (e.g. with tags, categories lists etc.) the title is extended with (deprecated) phrase.</description>
+    </item>
+    
+    <item>
+      <title>Digital Signals Waveforms</title>
+      <link>https://stem-notes.netlify.com/docs/waveforms/</link>
+      <pubDate>Thu, 26 Jul 2018 09:00:00 +0600</pubDate>
+      
+      <guid>https://stem-notes.netlify.com/docs/waveforms/</guid>
+      <description>Engimo support embedding wavedrom diagrams. For that, insert the following line into page metadata section:
+--- wave: true ---  then, in the content you may inline the diagram using viz-dot as a language:
+```wave { &amp;quot;signal&amp;quot;: [ {&amp;quot;name&amp;quot;:&amp;quot;CLK&amp;quot;, &amp;quot;wave&amp;quot;:&amp;quot;p.....|...&amp;quot;}, {&amp;quot;name&amp;quot;:&amp;quot;DAT&amp;quot;, &amp;quot;wave&amp;quot;:&amp;quot;x.345x|=.x&amp;quot;, &amp;quot;data&amp;quot;:[&amp;quot;A&amp;quot;,&amp;quot;B&amp;quot;,&amp;quot;C&amp;quot;,&amp;quot;D&amp;quot;]}, {&amp;quot;name&amp;quot;:&amp;quot;REQ&amp;quot;, &amp;quot;wave&amp;quot;:&amp;quot;0.1..0|1.0&amp;quot;}, {}, {&amp;quot;name&amp;quot;:&amp;quot;ACK&amp;quot;, &amp;quot;wave&amp;quot;: &amp;quot;1.....|01.&amp;quot;} ]} ```  Result { &amp;#34;signal&amp;#34;: [ {&amp;#34;name&amp;#34;: &amp;#34;CLK&amp;#34;, &amp;#34;wave&amp;#34;: &amp;#34;p.....|...&amp;#34;}, {&amp;#34;name&amp;#34;:&amp;#34;DAT&amp;#34;, &amp;#34;wave&amp;#34;:&amp;#34;x.345x|=.x&amp;#34;, &amp;#34;data&amp;#34;:[&amp;#34;A&amp;#34;,&amp;#34;B&amp;#34;,&amp;#34;C&amp;#34;,&amp;#34;D&amp;#34;]}, {&amp;#34;name&amp;#34;: &amp;#34;REQ&amp;#34;, &amp;#34;wave&amp;#34;: &amp;#34;0.1..0|1.0&amp;#34;}, {}, {&amp;#34;name&amp;#34;: &amp;#34;ACK&amp;#34;, &amp;#34;wave&amp;#34;: &amp;#34;1.</description>
+    </item>
+    
+    <item>
+      <title>Graphviz Support</title>
+      <link>https://stem-notes.netlify.com/docs/graphviz/</link>
+      <pubDate>Thu, 26 Jul 2018 09:00:00 +0600</pubDate>
+      
+      <guid>https://stem-notes.netlify.com/docs/graphviz/</guid>
+      <description>In order to include graphviz diagram, add the following attribute to the page metadata section:
+--- viz: true ---  You may then start adding diagrams.
+Directed graphs To embed directed graphs, add code block section labeled with viz-dot as a language:
+```viz-dot digraph g { node[shape=&amp;quot;circle&amp;quot; , label=&amp;quot;&amp;quot;, width=0.2, height=0.2] l1[xlabel=&amp;quot;v\(s\)&amp;quot;] l21[xlabel=&amp;quot;a&amp;quot;, width=0.1, height=0.1 , style=filled] l22[width=0.1, height=0.3, style=filled] l31[xlabel=&amp;quot;v\(s&#39;\)&amp;quot;] l1 -&amp;gt; l21 l1 -&amp;gt; l22 l21 -&amp;gt; l31 [xlabel=&amp;quot;r&amp;quot;] l21 -&amp;gt; l32 l22 -&amp;gt; l33 l22 -&amp;gt; l34 } ```  digraph g { node[shape=&amp;#34;circle&amp;#34; , label=&amp;#34;&amp;#34;, width=0.</description>
+    </item>
+    
+    <item>
+      <title>Features Summary</title>
+      <link>https://stem-notes.netlify.com/features-summary/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stem-notes.netlify.com/features-summary/</guid>
+      <description>Math $ \frac{d}{dx}\left( \int_{0}^{x} f(u)\,du\right)=f(x) $
+$ A_n = \begin{pmatrix} a_1 &amp;amp; a_2 &amp;amp; \ldots &amp;amp; a_n \\
+b_1 &amp;amp; b_2 &amp;amp; \ldots &amp;amp; b_n \\ \end{pmatrix} $
+Graphviz digraph g { node[shape=&amp;#34;circle&amp;#34; , label=&amp;#34;&amp;#34;, width=0.2, height=0.2] l1[xlabel=&amp;#34;v\(s\)&amp;#34;] l21[xlabel=&amp;#34;a&amp;#34;, width=0.1, height=0.1 , style=filled] l22[width=0.1, height=0.3, style=filled] l31[xlabel=&amp;#34;v\(s&amp;#39;\)&amp;#34;] l1 -&amp;gt; l21 l1 -&amp;gt; l22 l21 -&amp;gt; l31 [xlabel=&amp;#34;r&amp;#34;] l21 -&amp;gt; l32 l22 -&amp;gt; l33 l22 -&amp;gt; l34 } Waveform { &amp;#34;signal&amp;#34;: [ {&amp;#34;name&amp;#34;: &amp;#34;CLK&amp;#34;, &amp;#34;wave&amp;#34;: &amp;#34;p.</description>
+    </item>
+    
+  </channel>
+</rss>
