@@ -15,6 +15,7 @@
   "scripts": {
     "check": "hugo check",
     "build": "hugo",
+    "start": "hugo server",
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "netlify deploy"
   },

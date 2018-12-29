@@ -1,8 +1,11 @@
 ---
-title: Features Summary
-date: 2018-07-26
-lastmod: 2018-07-26
-authors: ["achary"]
+title: Features
+type: page
+slug: Features
+menu: main
+date: 2018-12-29
+lastmod: 2018-12-29
+authors: ["patevs"]
 tags:
   - engineering
 
@@ -14,6 +17,7 @@ msc: true
 flowchart: true
 
 toc: true
+weight: -230
 ---
 
 ## Math
