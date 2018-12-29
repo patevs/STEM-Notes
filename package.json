@@ -1,7 +1,7 @@
 {
   "name": "stem-notes",
-  "version": "1.0.1",
-  "description": "STEM Notes",
+  "version": "1.0.2",
+  "description": "STEM Notes Website",
   "scripts": {
     "build": "hugo",
     "test": "echo \"Error: no test specified\" && exit 1",
