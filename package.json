@@ -1,12 +1,10 @@
 {
   "name": "stem-notes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "STEM Notes Website",
-  "scripts": {
-    "build": "hugo",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "netlify deploy"
-  },
+  "author": "Patrick Evans",
+  "license": "UNLICENSED",
+  "homepage": "https://patevs.github.io/STEM-Notes/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/patevs/STEM-Notes.git"
@@ -14,9 +12,12 @@
   "keywords": [
     "STEM"
   ],
-  "author": "Patrick Evans",
-  "license": "UNLICENSED",
-  "homepage": "https://patevs.github.io/STEM-Notes/",
+  "scripts": {
+    "check": "hugo check",
+    "build": "hugo",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "netlify deploy"
+  },
   "dependencies": {},
   "devDependencies": {
     "hugo-cli": "^0.9.0",
