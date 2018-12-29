@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on STEM Notes</title>
+    <link>https://patevs.github.io/STEM-Notes/categories/</link>
+    <description>Recent content in Categories on STEM Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://patevs.github.io/STEM-Notes/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://patevs.github.io/STEM-Notes/categories/tutorial/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://patevs.github.io/STEM-Notes/categories/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>features</title>
+      <link>https://patevs.github.io/STEM-Notes/categories/features/</link>
+      <pubDate>Sun, 29 Jul 2018 09:00:00 +0600</pubDate>
+      
+      <guid>https://patevs.github.io/STEM-Notes/categories/features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>others</title>
+      <link>https://patevs.github.io/STEM-Notes/categories/others/</link>
+      <pubDate>Mon, 25 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>https://patevs.github.io/STEM-Notes/categories/others/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

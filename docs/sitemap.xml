@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/</loc>
+    <lastmod>2018-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/typography/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/engineering-support/</loc>
+    <lastmod>2018-07-26T19:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/installation/</loc>
+    <lastmod>2018-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/flowcharts/</loc>
+    <lastmod>2018-07-29T19:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/message-sequence-charts/</loc>
+    <lastmod>2018-07-27T10:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/charts/</loc>
+    <lastmod>2018-07-27T19:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/deprecated/</loc>
+    <lastmod>2018-07-27T19:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/waveforms/</loc>
+    <lastmod>2018-07-26T19:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/graphviz/</loc>
+    <lastmod>2018-07-26T19:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/features-summary/</loc>
+    <lastmod>2018-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/search-fuse-js/</loc>
+    <lastmod>2018-07-20T20:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/search-algolia/</loc>
+    <lastmod>2018-07-05T23:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/search-lunr-js/</loc>
+    <lastmod>2018-07-05T20:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/search-support/</loc>
+    <lastmod>2018-07-06T01:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/comments-support/</loc>
+    <lastmod>2018-06-29T19:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/emoji-support/</loc>
+    <lastmod>2018-02-27T21:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/mathjax-support/</loc>
+    <lastmod>2018-02-27T18:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/sidebar/</loc>
+    <lastmod>2018-03-29T05:20:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/widgets/</loc>
+    <lastmod>2018-07-06T01:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/shortcodes/</loc>
+    <lastmod>2017-10-05T20:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/cover-image/</loc>
+    <lastmod>2018-06-04T23:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/translation/</loc>
+    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/syntax-highlighting/</loc>
+    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/menus/</loc>
+    <lastmod>2018-05-24T02:10:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/opengraph/</loc>
+    <lastmod>2017-10-11T18:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/authors/</loc>
+    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/config-file/</loc>
+    <lastmod>2018-02-08T15:15:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/updating/</loc>
+    <lastmod>2018-02-08T14:45:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/docs/installation/</loc>
+    <lastmod>2018-02-08T15:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/tags/config/</loc>
+    <lastmod>2018-06-29T19:30:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/tags/og/</loc>
+    <lastmod>2017-10-11T18:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/page/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/tags/</loc>
+    <lastmod>2018-06-29T19:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/categories/tutorial/</loc>
+    <lastmod>2018-12-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/authors/achary/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/tags/algolia/</loc>
+    <lastmod>2018-07-05T23:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/tags/authors/</loc>
+    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/tags/chroma/</loc>
+    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/tags/engineering/</loc>
+    <lastmod>2018-07-26T19:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/categories/features/</loc>
+    <lastmod>2018-07-29T19:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/tags/fuse.js/</loc>
+    <lastmod>2018-07-20T20:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/tags/i18n/</loc>
+    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/tags/lunr.js/</loc>
+    <lastmod>2018-07-05T20:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/tags/menus/</loc>
+    <lastmod>2018-05-24T02:10:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/authors/muniftanjim/</loc>
+    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/categories/others/</loc>
+    <lastmod>2018-02-08T15:15:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/authors/patevs/</loc>
+    <lastmod>2018-12-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/tags/pygments/</loc>
+    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/tags/search/</loc>
+    <lastmod>2018-07-20T20:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/tags/shortcode/</loc>
+    <lastmod>2017-10-05T20:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/tags/translation/</loc>
+    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patevs.github.io/STEM-Notes/tags/widgets/</loc>
+    <lastmod>2018-07-06T01:30:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
