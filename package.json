@@ -1,6 +1,6 @@
 {
   "name": "stem-notes",
-  "version": "1.2.1",
+  "version": "1.2.3",
   "description": "STEM Notes Website",
   "author": "Patrick Evans",
   "license": "UNLICENSED",
@@ -10,7 +10,8 @@
     "url": "git+https://github.com/patevs/STEM-Notes.git"
   },
   "keywords": [
-    "STEM"
+    "STEM",
+    "STEM-Notes"
   ],
   "scripts": {
     "check": "hugo check",

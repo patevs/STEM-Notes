@@ -48,11 +48,38 @@
     </item>
     
     <item>
+      <title>chart</title>
+      <link>https://stem-notes.netlify.com/tags/chart/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stem-notes.netlify.com/tags/chart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>engineering</title>
       <link>https://stem-notes.netlify.com/tags/engineering/</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://stem-notes.netlify.com/tags/engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flowcharts</title>
+      <link>https://stem-notes.netlify.com/tags/flowcharts/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stem-notes.netlify.com/tags/flowcharts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graphviz</title>
+      <link>https://stem-notes.netlify.com/tags/graphviz/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stem-notes.netlify.com/tags/graphviz/</guid>
       <description></description>
     </item>
     
@@ -80,6 +107,33 @@
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://stem-notes.netlify.com/tags/introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://stem-notes.netlify.com/tags/markdown/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stem-notes.netlify.com/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>math</title>
+      <link>https://stem-notes.netlify.com/tags/math/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stem-notes.netlify.com/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>waveform</title>
+      <link>https://stem-notes.netlify.com/tags/waveform/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stem-notes.netlify.com/tags/waveform/</guid>
       <description></description>
     </item>
     

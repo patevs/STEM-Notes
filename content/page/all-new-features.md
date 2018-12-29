@@ -8,6 +8,12 @@ lastmod: 2018-12-29
 authors: ["patevs"]
 tags:
   - engineering
+  - markdown
+  - math
+  - graphviz
+  - waveform
+  - chart
+  - flowcharts
 
 mathjax: true
 viz: true
