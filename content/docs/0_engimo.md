@@ -1,10 +1,13 @@
 ---
 date: 2018-12-29T09:00:00+06:00
-lastmod: 2018-12-29T19:30:00+06:00
+lastmod: 2018-12-29T09:00:00+06:00
 title: Hugo setup and Engimo theme Installation Guide
 authors: ["patevs"]
 categories:
   - Tutorial
+  - features
+tags:
+  - engineering
 slug: installation
 toc: true
 ---
