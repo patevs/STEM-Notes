@@ -12,16 +12,13 @@
     
     
     <item>
-      <title>Hugo setup and Engimo theme Installation Guide</title>
+      <title>NodeJS and NPM</title>
       <link>https://stem-notes.netlify.com/docs/installation/</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://stem-notes.netlify.com/docs/installation/</guid>
-      <description>First of all you will need to setup a Hugo site. You can follow the Hugo&amp;rsquo;s Quick Start Guide for that.
-After you&amp;rsquo;re done with that, it&amp;rsquo;s time for installing Engimo!
-Installing Engimo There are two different ways you can install Engimo:
- As clone As submodule  The second method is recommended.
-Install Engimo as clone With this method, you will simply clone it. And a copy of Engimo&amp;rsquo;s repository will be stored with the rest of you site.</description>
+      <description>Node Package Manager (NPM) is the world&amp;rsquo;s largest software registry, with approximately 3 billion downloads per week. npm opens up an entire world of JavaScript talent to you and to your team. The registry contains over 600,000 packages (building blocks of code).
+Open-source developers from every continent share and borrow packages through npm, accessing algorithms designed across the planet or across the street. Packages follow specific structures to enable you to track and manage versions and multiple dependencies.</description>
     </item>
     
     <item>

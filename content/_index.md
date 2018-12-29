@@ -5,5 +5,5 @@ menu:
   - sidebar
 weight: -270
 ---
-> Minimalism is not a lack of something. It’s simply the perfect amount of something.
-> — Nicholas Burroughs
+The real measure of your wealth is how much youd be worth if you lost all your money.
+**‐ Unknown ‐**

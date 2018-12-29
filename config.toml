@@ -44,7 +44,7 @@ defaultContentLanguage = "en"
 
 [params.info]
 description = "Science, Technologly, Engineering, Mathmatics"
-title404 = "404 Page not found!"
+title404 = "404 nothing to see here!"
 
 [params.assets]
 
@@ -54,10 +54,10 @@ customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
-prefix = ""
-holder = "Patrick Evans"
+prefix = "--"
+holder = " | Patrick Evans"
 startYear = "2018"
-suffix = ""
+suffix = "--"
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
@@ -138,6 +138,12 @@ page = "/:slug/"
 #weight = -10
 #identifier = "repository"
 #url = "https://github.com/achary/engimo"
+
+[[menu.main]]
+name = "repo"
+weight = -10
+identifier = "repository"
+url = "https://github.com/patevs/STEM-Notes"
 
 [blackfriday]
 hrefTargetBlank = true

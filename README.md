@@ -1,21 +1,16 @@
 # STEM-Notes
 
-> Website blog for my STEM (Science, Technologly, Engineering, Mathmatics) notes
+Netlify deploy: https://stem-notes.netlify.com/
 
-----
+Build using the [Hugo](https://gohugo.io/) static site generator framework.
 
-Built using [Hugo](https://gohugo.io/) static site generator tool/framework.
-
-Theme: [achary/engimo](https://github.com/achary/engimo)
+Theme cloned from: [achary/engimo](https://github.com/achary/engimo)
 
 ## Setup Instructions
 
 ```bash
 git clone https://github.com/patevs/STEM-Notes.git
 cd STEM-Notes
-
-# clone theme submodule
-git submodule update --init --recursive
 
 # run development server
 hugo server
@@ -28,6 +23,9 @@ hugo
 * [Hugo](https://gohugo.io/)
   * [`Documentation`](https://gohugo.io/documentation/)
   * [`Themes`](https://themes.gohugo.io/)
+* [Netlify](https://app.netlify.com/account/sites)
+  * [`CLI`](https://www.netlify.com/docs/cli/)
+  * [`Documentation`](https://www.netlify.com/docs/)
 
 ----
 
