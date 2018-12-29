@@ -8,7 +8,7 @@ categories:
 tags:
   - engineering
   - introduction
-slug: installation
+slug: node-npm
 toc: false
 ---
 

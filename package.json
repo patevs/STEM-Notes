@@ -17,5 +17,9 @@
   "author": "Patrick Evans",
   "license": "UNLICENSED",
   "homepage": "https://patevs.github.io/STEM-Notes/",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "hugo-cli": "^0.9.0",
+    "netlify-cli": "^2.6.0"
+  }
 }
