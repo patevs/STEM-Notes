@@ -8,6 +8,9 @@ categories:
 tags:
   - engineering
   - introduction
+  - NodeJS
+  - NPM
+  - installation
 slug: node-npm
 toc: false
 ---
