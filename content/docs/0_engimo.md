@@ -1,13 +1,14 @@
 ---
-date: 2018-12-29
-lastmod: 2018-12-29
-title: Engimo Installation Guide
+date: 2018-12-29T09:00:00+06:00
+lastmod: 2018-12-29T19:30:00+06:00
+title: Hugo setup and Engimo theme Installation Guide
 authors: ["patevs"]
 categories:
   - Tutorial
 slug: installation
 toc: true
 ---
+
 First of all you will need to setup a Hugo site. You can follow the [Hugo's Quick Start Guide](https://gohugo.io/getting-started/quick-start/) for that.
 
 After you're done with that, it's time for installing Engimo!
