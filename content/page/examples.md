@@ -1,7 +1,8 @@
 ---
 title: Examples
 type: page
-slug: Examples
+description: Features summary and examples
+slug: examples
 menu: main
 date: 2018-12-29
 lastmod: 2018-12-30
@@ -26,8 +27,6 @@ flowchart: true
 toc: true
 weight: -230
 ---
-
-# Features Summary and Examples
 
 Here is a paragraph. **Lorem ipsum _dolor_ sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 

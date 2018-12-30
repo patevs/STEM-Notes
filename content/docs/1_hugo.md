@@ -2,12 +2,14 @@
 date: 2018-12-29
 lastmod: 2018-12-30
 title: Hugo Framework
+slug: hugo
 authors: ["patevs"]
 categories:
   - Tutorial
   - Javascript
   - NodeJS
   - Frontend
+  - Hugo
 tags:
   - engineering
   - introduction
@@ -18,9 +20,6 @@ tags:
   - npm
 toc: false
 ---
-
-# Hugo Static Site Generator
-
 ## Installing Hugo
 
 First of all you will need to setup a Hugo site. You can follow the Hugo [Quick Start Guide](https://gohugo.io/getting-started/quick-start/) for that.

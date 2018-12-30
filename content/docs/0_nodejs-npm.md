@@ -2,16 +2,19 @@
 date: 2018-12-29
 lastmod: 2018-12-29
 title: NodeJS and NPM
+slug: node-npm
 authors: ["patevs"]
 categories:
   - Tutorial
+  - Javascript
+  - NodeJS
 tags:
   - engineering
   - introduction
-  - NodeJS
-  - NPM
   - installation
-slug: node-npm
+  - javascript
+  - nodejs
+  - npm
 toc: false
 ---
 
@@ -27,7 +30,7 @@ Open-source developers from every continent share and borrow packages through np
 
 # Getting Started
 
-If you're using OS X or Windows, use one of the installers from the Node.js download page linked above. Be sure to install the version labeled LTS. Other versions have not yet been tested with npm.
+If you're using OSX or Windows, use one of the installers from the Node.js download page linked above. Be sure to install the version labeled LTS. Other versions have not yet been tested with npm.
 
 <p style="text-align:center"><a href="https://docs.npmjs.com/getting-started/installing-node">Installing Node</a></p>
 
