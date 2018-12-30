@@ -1,7 +1,7 @@
 ---
 title: Examples
 type: page
-description: Features summary and examples
+description: Typography and engineering feature summary and examples
 slug: examples
 menu: main
 date: 2018-12-29
