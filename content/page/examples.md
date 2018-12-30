@@ -1,11 +1,12 @@
 ---
-title: Features
+title: Examples
 type: page
-slug: Features
+slug: Examples
 menu: main
 date: 2018-12-29
-lastmod: 2018-12-29
+lastmod: 2018-12-30
 authors: ["patevs"]
+
 tags:
   - engineering
   - markdown
@@ -25,6 +26,8 @@ flowchart: true
 toc: true
 weight: -230
 ---
+
+# Features Summary and Examples
 
 Here is a paragraph. **Lorem ipsum _dolor_ sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -177,3 +180,5 @@ Andrew->>China: I am good thanks!
 ## Deprecated pages
 
 <div class="deprecated">This page has been marked as deprecated.</div>
+
+----

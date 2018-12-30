@@ -29,4 +29,4 @@ platforms = ["github","facebook","twitter","instagram","email","codepen","gitlab
 [taxonomy_cloud]
 title = ""                            # default: Plural Name for `taxonomyCloud.taxonomy`
 taxonomy = "tags"                     # default: "tags"
-shuffle = false                        # default: true
+shuffle = true                        # default: true

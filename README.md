@@ -1,24 +1,31 @@
 # STEM-Notes
 
-Netlify deployment: https://stem-notes.netlify.com/
+> https://stem-notes.netlify.com/
 
-Build using the [Hugo](https://gohugo.io/) framework and static site generator with theme cloned from: [achary/engimo](https://github.com/achary/engimo)
+Project was build with [Hugo](https://gohugo.io/) framework using its static site generator.
 
-## Setup Instructions
+The theme for the site was cloned from: [achary/engimo](https://github.com/achary/engimo)
+
+----
+
+## Local Setup Instructions
 
 ```bash
 git clone https://github.com/patevs/STEM-Notes.git
 cd STEM-Notes
+
 # run development server
-hugo server
+hugo server # OR yarn start
+
 # run production build of site
-hugo
+hugo # OR yarn build
+
 # trigger deployment with remote push or manually
 # requires netlify-cli installed globally
-netlify deploy
+netlify deploy # OR yarn deploy
 ```
 
-## Resources
+## Documentation and Resources
 
 * [Hugo](https://gohugo.io/)
   * [`CLI`](https://www.npmjs.com/package/hugo-cli)
