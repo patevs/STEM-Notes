@@ -1,8 +1,8 @@
 ---
 date: 2018-12-30
 lastmod: 2018-12-30
-title: Jupyter Guide
-description: Introduction to Jupyter and Jupyter Notebook
+title: Project Jupyter
+description: Introduction to Project Jupyter, Jupyter Notebook, and JupyterLab
 slug: jupyter
 authors: ["patevs"]
 categories:
@@ -15,9 +15,14 @@ tags:
   - introduction
   - installation
   - jupyter
-  - python
+  - jupyterlab
+  - python2
+  - python3
+  - pip
+  - pipenv
   - anaconda
-toc: false
+  - conda
+toc: true
 ---
 ## Installing Jupyter
 
