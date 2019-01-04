@@ -56,7 +56,7 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 [params.copyright]
 prefix = "--"
 holder = " | Patrick Evans"
-startYear = "2019"
+startYear = "2018"
 suffix = "--"
 
 [params.settings]
