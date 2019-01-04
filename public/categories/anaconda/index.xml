@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anaconda on STEM Notes</title>
+    <link>https://stem-notes.netlify.com/categories/anaconda/</link>
+    <description>Recent content in Anaconda on STEM Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://stem-notes.netlify.com/categories/anaconda/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project Jupyter</title>
+      <link>https://stem-notes.netlify.com/docs/jupyter/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stem-notes.netlify.com/docs/jupyter/</guid>
+      <description>Installing Jupyter Jupyter requires a prequisite of Python version 2.7 or version 3.3 and greater.
+The recommended installation method is to use the Anaconda distribution which will install Python and Jupyter.
+Running Jupyter Notebook Run the following command to run Jupyter Notebook
+jupyter notebook Installing JupyterLab JupyterLab is the next-generation web-based user interface for Project Jupyter.
+JupyterLab can be installed using either conda, pip or, pipenv.
+conda conda install -c conda-forge jupyterlab pip pip install jupyterlab pipenv pipenv install jupyterlab pipenv shell Running JupyterLab JupyterLab can be run with the following command:</description>
+    </item>
+    
+  </channel>
+</rss>
