@@ -26,7 +26,7 @@ toc: true
 ---
 ## Installing Jupyter
 
-[`Jupyter`](https://jupyter.org/) requires a prequisite of [`Python`](https://www.python.org/) [version 2.7](https://www.python.org/downloads/release/python-2715/) or [version 3.3](https://www.python.org/downloads/) and greater. 
+[`Jupyter`](https://jupyter.org/) requires a prequisite of either [`Python`](https://www.python.org/) [version 2.7](https://www.python.org/downloads/release/python-2715/) or [version 3.3](https://www.python.org/downloads/) and greater. 
 
 The recommended installation method is to use the [`Anaconda`](https://www.anaconda.com/download/) distribution which will install Python and Jupyter.
 

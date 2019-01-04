@@ -20,7 +20,9 @@ toc: false
 
 <div style="border-bottom:1px solid black;">
 <p>
-Node Package Manager (<strong>NPM</strong>) is the world's largest software registry, with approximately 3 billion downloads per week. npm opens up an entire world of JavaScript talent to you and to your team. The registry contains over 600,000 packages (building blocks of code).<br> 
+<a href="https://nodejs.org/en/">NodeJS</a> is an asyncronous event driven JavaScript runtime built on <a href="https://v8.dev/">Chrome's V8 JavaScript engine</a> and comes with its own preinstalled package manager called npm.<br>
+
+<a href="https://www.npmjs.com/">Node Package Manager</a> (<strong>NPM</strong>) is the world's largest software registry, with approximately 3 billion downloads per week. npm opens up an entire world of JavaScript talent to you and to your team. The registry contains over 600,000 packages (building blocks of code).<br> 
 <br>
 Open-source developers from every continent share and borrow packages through npm, accessing algorithms designed across the planet or across the street. Packages follow specific structures to enable you to track and manage versions and multiple dependencies.
 </p>
@@ -46,6 +48,7 @@ There are two ways to install npm packages: locally or globally. Choose which ki
 <p style="text-align:center"><a href="https://docs.npmjs.com/getting-started/packages">Packages and Modules</a></p>
 
 <br>
+
 ## Working with package.json
 
 The best way to manage locally installed npm packages is to create a **package.json** file.
@@ -62,13 +65,14 @@ A **package.json** file:
 
 A **package.json** must have:
 
-* **"name"**
+* **name**
 	* all lowercase
 	* one word, no spaces
 	* dashes and underscores allowed
-* **"version"**
+* **version**
 	* in the form of x.x.x
 	* follows semver spec e.g.:
+
 ```
 {
   "name": "my-awesome-package",
@@ -87,6 +91,7 @@ To create a **package.json** with values that you supply, run:
 > npm init
 ```
 This will initiate a command line questionnaire that will conclude with the creation of a **package.json** in the directory in which you initiated the command.
+
 2. To get a default **package.json**, run **npm init** with the **--yes** or **-y** flag:
 ```
 > npm init --yes
@@ -95,7 +100,7 @@ This method will generate a default package.json using information extracted fro
 <br>
 
 <br>
-## Nodejs Local Server
+## NodeJS Local Server
 
 If Node.js is already downloaded and installed in your system, you can easily set up a simple HTTP web server on your system using Node.js.
 <br>
@@ -104,11 +109,14 @@ If Node.js is already downloaded and installed in your system, you can easily se
 To do this, follow these steps outlined below:
 
 1. Open a command prompt / command line window in the administrator mode
+
 2. Enter the following command:
 ```
 npm install -g http-server
 ```
+
 3. Switch to the directory containing the web files
+
 4. Start the web server with this following command:
 ```
 http-server -o
