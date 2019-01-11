@@ -29,7 +29,7 @@ toc: true
 
 Included with Node.js is its own dedicated package manager called <strong><a href="https://www.npmjs.com/">NPM</a></strong> (<strong>N</Strong>ode <Strong>P</Strong>ackage <Strong>M</Strong>anager) which is the world's largest software registry, with approximately 3 billion downloads per week. NPM opens up an entire world of JavaScript talent to you and to your team. The registry contains over 600,000 packages (building blocks of code).<br> 
 <br>
-Open-source developers from every continent share and borrow packages through npm, accessing algorithms designed across the planet or across the street. Packages follow specific structures to enable you to track and manage versions and multiple dependencies.
+Open-source developers from every continent share and borrow packages through NPM, accessing algorithms designed across the planet or across the street. Packages follow specific structures to enable you to track and manage versions and multiple dependencies.
 </p>
 <p style="text-align:center"><a href="https://nodejs.org/en/download/">Node.js Download</a></p>
 </div>
@@ -104,9 +104,9 @@ This method will generate a default package.json using information extracted fro
 
 ## Node.js Local Server
 
-If Node.js is already downloaded and installed in your system, you can easily set up a simple HTTP web server on your system using Node.js and npm.
+If Node.js is already downloaded and installed in your system, you can easily set up a simple HTTP web server on your system using Node.js and NPM.
 
-#### Install the http-server package from npm
+#### Install the http-server package from NPM
 
 To do this, follow these steps outlined below:
 
