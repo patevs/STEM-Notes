@@ -22,7 +22,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "hugo-cli": "^0.9.0",
+    "hugo-cli": "^0.10.0",
     "netlify-cli": "^2.6.0"
   }
 }
