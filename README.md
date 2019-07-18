@@ -25,6 +25,25 @@ hugo # OR yarn build
 netlify deploy # OR yarn deploy
 ```
 
+`package.json`
+
+```json
+  "scripts": {
+    "check": "hugo check",
+    "build": "hugo",
+    "start": "hugo server",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "netlify deploy"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "hugo-cli": "^0.10.0",
+    "netlify-cli": "^2.6.0"
+  }
+```
+
+----
+
 ## Documentation and Resources
 
 * [Hugo](https://gohugo.io/)
